@@ -1,4 +1,3 @@
-/*
 This project is a web application that calculates the macronutrients of a meal based on user input. It uses FastAPI web framework for building APIs with Python 3.6+ based on standard Python type hints.
 
 The code architecture is based on the dependency injection design pattern and the single responsibility principle. Each class has a single responsibility and depends on other classes to perform its tasks. This makes the code more modular, easy to test, and maintain.
@@ -23,8 +22,6 @@ The functionality of the application is as follows:
 4. The application uses the FatSecret API to get information about the identified food items.
 5. The application calculates the macronutrients of the meal based on the information obtained from the FatSecret API.
 6. The application sends a message to the user with the calculated macronutrients of the meal.
-
-*/
 
 
 
